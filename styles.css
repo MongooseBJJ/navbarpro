@@ -227,11 +227,17 @@ nav {
     display: none;
 }
 
+
+/* toggle */
+
 .links {
-    /* height: 0;
-  overflow: hidden;
-  transition: var(--transition); */
+    height: 0;
+    overflow: hidden;
+    transition: var(--transition);
 }
+
+
+/* toggle classs */
 
 .show-links {
     height: 10rem;
